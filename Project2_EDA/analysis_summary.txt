@@ -1,0 +1,37 @@
+PROJECT 2 – EXPLORATORY DATA ANALYSIS (EDA)
+
+Dataset Used:
+cleaned_orders.xlsx
+
+Analysis Performed:
+
+1. Loaded the cleaned dataset using Pandas.
+2. Displayed the first 5 rows of the dataset.
+3. Examined the dataset structure using info().
+4. Generated descriptive statistics using describe().
+5. Visualized the distribution of Order Status.
+6. Analyzed the distribution of Total Price using a histogram.
+7. Visualized the number of orders for each product.
+8. Created a scatter plot of Quantity vs Total Price.
+9. Analyzed customer Payment Methods.
+10. Calculated and visualized Total Sales by Product.
+11. Examined Referral Source distribution.
+12. Created a correlation heatmap for numerical columns.
+13. Analyzed Monthly Sales Trend.
+14. Identified outliers in Total Price using a box plot.
+
+Key Findings:
+
+* The dataset contains 1200 records with no missing values.
+* The average Total Price is approximately 1053.97.
+* Some products generate higher sales than others.
+* Total Price increases with Quantity and Unit Price.
+* A few outliers exist in the Total Price column.
+* Different payment methods and referral sources contribute to customer orders.
+
+Final Result:
+
+* Dataset successfully analyzed.
+* Trends and patterns identified.
+* Outliers detected.
+* Visualizations created for better understanding of the data.
